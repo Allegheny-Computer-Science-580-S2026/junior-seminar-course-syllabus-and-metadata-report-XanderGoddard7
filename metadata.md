@@ -38,7 +38,7 @@ A research group member should type their GitHub username below.
 
 ### GitHub Repository for Research Prototype
 
-- **Repository URL**: [URL of GitHub Repository for Research Prototype]((https://github.com/XanderGoddard7/LLM-Mutator))
+- **Repository URL**: [URL of GitHub Repository for Research Prototype](https://github.com/XanderGoddard7/LLM-Mutator)
 
 ### GitHub Repository for Research Data
 
